@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/rpsls-core/rpsls-core.iml" filepath="$PROJECT_DIR$/rpsls-core/rpsls-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpsls-jmh-benchmarks/rpsls-jmh-benchmarks.iml" filepath="$PROJECT_DIR$/rpsls-jmh-benchmarks/rpsls-jmh-benchmarks.iml" />
       <module fileurl="file://$PROJECT_DIR$/rpsls-maven-test.iml" filepath="$PROJECT_DIR$/rpsls-maven-test.iml" />
     </modules>
   </component>
